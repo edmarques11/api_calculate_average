@@ -1,5 +1,8 @@
 # external packages
 node_modules
 
+# Build folder
+dist
+
 # Env file
 .env
