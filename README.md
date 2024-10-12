@@ -21,3 +21,7 @@ npm run test
 ### Para acessar a documentação da api
 - Executar o comando `npm run dev`
 - Abrir no seu navedor de preferência a url [http://localhost:3000/api-docs](http://localhost:3000/api-docs)
+
+### URL da aplicação online
+- Delay de aproximadamente 50s na primeira chamada, limitação do servidor.
+- [https://calculate-average.onrender.com/api](https://calculate-average.onrender.com/api)
