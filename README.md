@@ -25,3 +25,8 @@ npm run test
 ### URL da aplicação online
 - Delay de aproximadamente 50s na primeira chamada, limitação do servidor.
 - [https://calculate-average.onrender.com/api](https://calculate-average.onrender.com/api)
+
+### Funcionalidades desenvolvidas
+- Enpoint para cálculo de média aritmética entre até 1000 números
+- Validação de dados da requisição com [yup](https://www.npmjs.com/package/yup/v/1.0.0-alpha.3)
+- Teste unitários para a classe que realiza os cálculos
